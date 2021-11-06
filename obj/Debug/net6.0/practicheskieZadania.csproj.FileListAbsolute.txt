@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\practica\practicheskieZadania\obj\Debug\net6.0\practicheskieZadania.GlobalUsings.g.cs
+C:\Users\User\Desktop\practica\practicheskieZadania\obj\Debug\net6.0\practicheskieZadania.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\practica\practicheskieZadania\obj\Debug\net6.0\practicheskieZadania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\practica\practicheskieZadania\obj\Debug\net6.0\practicheskieZadania.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\practica\practicheskieZadania\obj\Debug\net6.0\practicheskieZadania.AssemblyInfo.cs
+C:\Users\User\Desktop\practica\practicheskieZadania\obj\Debug\net6.0\practicheskieZadania.csproj.CoreCompileInputs.cache
